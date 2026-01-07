@@ -1,0 +1,172 @@
+{
+  "pays": "Inde",
+  "drapeau": "🇮🇳",
+  "symbole": "🐘",
+  "titre": "Évasion Relaxante au Cœur de Delhi",
+  "budget_total": "Environ 1200 €/personne",
+  "duree": "3 jours",
+  "date_debut": "2026-03-01",
+  "date_fin": "2026-03-04",
+  "temps_vol": "15h depuis Zeulipleu, cote d'ivoire",
+  "escale": "1",
+  "jours": [
+    {
+      "jour": 1,
+      "symbole": "🛬",
+      "titre": "Arrivée et Douce Immersion à Delhi",
+      "legende": "Après un long voyage, la première journée est dédiée à l'installation et à une première découverte paisible de l'ambiance indienne. Laissez-vous porter par les sons et les couleurs de Delhi, sans précipitation.",
+      "lieu": "Delhi",
+      "activites": [
+        "<strong>🛬 Arrivée à l'aéroport de Delhi</strong>: Atterrissage à l'aéroport international Indira Gandhi (DEL) après votre vol depuis Abidjan.",
+        "<strong>🛏️ Installation à l'hôtel</strong>: Transfert vers votre hôtel et prise de possession de votre chambre pour vous rafraîchir et vous détendre.",
+        "<strong>🚶‍♂️ Balade relaxante dans le quartier</strong>: Une promenade légère autour de votre hôtel pour vous imprégner de l'atmosphère locale et dîner tranquillement."
+      ],
+      "illustration": "jour1.jpg",
+      "encarts": [
+        {
+          "symbole": "ℹ️",
+          "titre": "Décalage horaire",
+          "texte": "Prévoyez un décalage horaire important (GMT+5:30 par rapport à la Côte d'Ivoire). Hydratez-vous bien et reposez-vous pour minimiser le jet lag."
+        }
+      ]
+    },
+    {
+      "jour": 2,
+      "symbole": "🕌",
+      "titre": "Sérénité Historique et Jardins Mogols",
+      "legende": "Cette journée vous invite à explorer la grandeur architecturale et la quiétude des jardins mogols. Un mélange parfait d'histoire et de nature pour une expérience relaxante et enrichissante.",
+      "lieu": "Delhi",
+      "activites": [
+        "<strong>🌿 Visite du Tombeau d'Humayun</strong>: Explorez ce magnifique mausolée mogol, précurseur du Taj Mahal, entouré de jardins persans paisibles, idéal pour une balade contemplative.",
+        "<strong>🌳 Détente aux Jardins de Lodhi</strong>: Flânez dans ce parc verdoyant abritant des tombes historiques des dynasties Sayyid et Lodi, un havre de paix prisé des locaux pour la marche et la méditation.",
+        "<strong>🛍️ Découverte de Dilli Haat</strong>: Immergez-vous dans ce marché en plein air unique, offrant artisanat, cuisine et spectacles culturels des différentes régions de l'Inde, dans une ambiance détendue."
+      ],
+      "points_interet": [
+        {
+          "nom_recherche": "Tombeau d'Humayun, Delhi",
+          "categorie": "Monument historique",
+          "coords": { "lat": 28.5933, "lng": 77.2507 }
+        },
+        {
+          "nom_recherche": "Lodhi Garden, Delhi",
+          "categorie": "Parc",
+          "coords": { "lat": 28.5919, "lng": 77.2227 }
+        },
+        {
+          "nom_recherche": "Dilli Haat, Delhi",
+          "categorie": "Marché culturel",
+          "coords": { "lat": 28.5724, "lng": 77.2096 }
+        }
+      ],
+      "illustration": "jour2.jpg",
+      "encarts": [
+        {
+          "symbole": "💡",
+          "titre": "Conseil",
+          "texte": "Portez des chaussures confortables pour les longues marches dans les jardins et les sites historiques. N'oubliez pas une bouteille d'eau."
+        }
+      ]
+    },
+    {
+      "jour": 3,
+      "symbole": "🌸",
+      "titre": "Architecture Spirituelle et Merveilles Antiques",
+      "legende": "Cette journée combine la sérénité d'un temple moderne à l'architecture unique avec la grandeur d'un complexe historique millénaire. Une immersion douce dans la richesse culturelle et spirituelle de l'Inde.",
+      "lieu": "Delhi",
+      "activites": [
+        "<strong>🧘‍♀️ Visite du Temple du Lotus</strong>: Admirez l'architecture florale unique de ce temple Baháʼí, un lieu de culte ouvert à tous, invitant à la paix et à la méditation dans un cadre apaisant.",
+        "<strong>🏛️ Exploration du Qutub Minar</strong>: Découvrez ce complexe classé à l'UNESCO, dominé par un minaret imposant et des ruines fascinantes, témoin de l'histoire médiévale de Delhi.",
+        "<strong>💆‍♀️ Soirée détente et bien-être</strong>: Offrez-vous un massage ayurvédique ou une séance de spa pour une relaxation profonde après ces journées de découvertes, ou profitez d'un dîner gastronomique."
+      ],
+      "points_interet": [
+        {
+          "nom_recherche": "Temple du Lotus, Delhi",
+          "categorie": "Temple",
+          "coords": { "lat": 28.5535, "lng": 77.2588 }
+        },
+        {
+          "nom_recherche": "Qutub Minar, Delhi",
+          "categorie": "Monument historique",
+          "coords": { "lat": 28.5245, "lng": 77.1855 }
+        }
+      ],
+      "illustration": "jour3.jpg",
+      "encarts": [
+        {
+          "symbole": "🙏",
+          "titre": "Respect",
+          "texte": "Au Temple du Lotus, le silence est de rigueur. Pensez à retirer vos chaussures avant d'entrer, comme dans la plupart des lieux de culte en Inde."
+        }
+      ]
+    },
+    {
+      "jour": 4,
+      "symbole": "🛫",
+      "titre": "Derniers Instants et Départ",
+      "legende": "Profitez d'un dernier petit-déjeuner indien et, selon l'heure de votre vol, d'un peu de temps pour des achats de dernière minute ou une dernière promenade avant de prendre la route de l'aéroport.",
+      "lieu": "Delhi",
+      "activites": [
+        "<strong>☕ Petit-déjeuner indien</strong>: Savourez un dernier repas typique avant de quitter la ville.",
+        "<strong>🎁 Achats de souvenirs (optionnel)</strong>: Si le temps le permet, quelques emplettes pour ramener un petit bout d'Inde chez vous.",
+        "<strong>🛫 Départ de l'aéroport de Delhi</strong>: Transfert vers l'aéroport Indira Gandhi (DEL) pour votre vol retour."
+      ],
+      "illustration": "jour4.jpg",
+      "encarts": [
+        {
+          "symbole": "✈️",
+          "titre": "Enregistrement",
+          "texte": "Arrivez à l'aéroport au moins 3 heures avant votre vol international pour les formalités d'enregistrement et de sécurité."
+        }
+      ]
+    }
+  ],
+  "detail_budget": [
+    { "titre": "Budget vol:", "legende": "A partir de 850 €/pers", "symbole": "🛬" },
+    { "titre": "Budget transports:", "legende": "Environ 70 €/pers (taxis, rickshaws, métro)", "symbole": "🚆" },
+    { "titre": "Budget repas:", "legende": "Environ 90 €/pers (30€/jour pour 3 jours, restaurants moyens)", "symbole": "🥗" },
+    { "titre": "Budget logement:", "legende": "Environ 100 €/pers (3 nuits en hôtel 3*, base double)", "symbole": "🛏️" },
+    { "titre": "Budget activités:", "legende": "Environ 50 €/pers (entrées monuments, massage optionnel)", "symbole": "🎭" }
+  ],
+  "periodes_ideales": [{ "titre": "Mars à Avril", "symbole": "☀️" }],
+  "infos_pratiques": [
+    { "titre": "En mars, les températures à Delhi sont agréables (20-30°C). Prévoir des vêtements légers et confortables, mais aussi un foulard pour les visites de lieux de culte.", "symbole": "🌡️" },
+    { "titre": "La roupie indienne (INR) est la monnaie. Les cartes de crédit sont acceptées dans les grands établissements, mais prévoyez du liquide pour les petits commerces et les rickshaws.", "symbole": "💳" },
+    { "titre": "Un visa est obligatoire pour les citoyens ivoiriens. Faites votre demande de e-Visa en ligne bien avant le départ.", "symbole": "🛂" },
+    { "titre": "Achetez une carte SIM locale (Airtel, Jio) ou une eSIM pour rester connecté. Le Wi-Fi est disponible dans la plupart des hôtels.", "symbole": "📶" }
+  ],
+  "infos_decallees": [
+    { 
+      "symbole": "💡", 
+      "titre": "Le Qutub Minar, une tour inachevée ?", 
+      "texte": "La construction du Qutub Minar a été initiée par Qutb al-Din Aibak en 1192, mais il n'a pu achever que le premier étage. Ses successeurs ont continué l'œuvre, ce qui en fait un mélange de styles architecturaux sur plusieurs siècles, un véritable \"work in progress\" historique !" 
+    },
+    { 
+      "symbole": "🙃", 
+      "titre": "Le Temple du Lotus, un symbole universel", 
+      "texte": "Le Temple du Lotus est unique car il n'a pas d'idoles ni de rituels spécifiques. Sa conception, inspirée de la fleur de lotus, invite à la méditation pour toutes les religions, un véritable havre de paix où chacun peut trouver sa propre spiritualité, sans barrière." 
+    }
+  ],
+  "specialites_culinaires": [
+    { 
+      "symbole": "🍚", 
+      "titre": "Biryani", 
+      "description": "Un plat de riz basmati parfumé, cuit avec de la viande (poulet ou agneau) ou des légumes, et un mélange d'épices aromatiques. Un délice pour les papilles !" 
+    },
+    { 
+      "symbole": "🥣", 
+      "titre": "Dal Makhani", 
+      "description": "Des lentilles noires (urad dal) mijotées lentement dans une sauce crémeuse à base de beurre, de tomates et d'épices. Un plat riche et réconfortant, souvent servi avec du naan." 
+    },
+    { 
+      "symbole": "🥛", 
+      "titre": "Lassi", 
+      "description": "Une boisson rafraîchissante à base de yaourt, souvent sucrée et parfumée à la mangue, à la rose ou à la cardamome. Parfait pour se désaltérer sous le soleil indien." 
+    }
+  ],
+  "liens_utiles": [
+    { "legende": "Vols", "titre": "Réserve ton vol", "url": "https://www.kayak.fr/flights/ABJ-DEL/2026-03-01/2026-03-04", "symbole": "🛬" },
+    { "legende": "Informations officielles sur l'Inde", "titre": "Incredible India", "url": "https://www.incredibleindia.org/", "symbole": "📘" },
+    { "legende": "Demande de e-Visa Inde", "titre": "Indian e-Visa", "url": "https://indianvisaonline.gov.in/evisa/tvoa.html", "symbole": "🛂" },
+    { "legende": "Météo à Delhi", "titre": "Météo Delhi", "url": "https://www.accuweather.com/fr/in/delhi/202397/weather-forecast/202397", "symbole": "🌤️" }
+  ]
+}
